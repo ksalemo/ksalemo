@@ -1,6 +1,4 @@
 👋 Hi, I’m Kate
-- I'm currently working on an app to help healthcare providers improve their integrated behavioral health practice
-- 🌱 I’m currently learning about hosting R Shiny apps on AWS using AWS Fargate
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/katesalemo/)
 
 <!---
